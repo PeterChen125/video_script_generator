@@ -6,6 +6,7 @@ Features:
 🤖 AI-Powered: Utilizes OpenAI's GPT to generate dynamic and appealing scripts.
 🌐 Wikipedia Integration: References Wikipedia to enhance content relevance.
 🛠 Interactive Interface: Easy-to-use Streamlit interface with real-time script generation.
+
 How to Use:
 Enter your OpenAI API key.
 Provide the video topic, duration, and creativity preferences.
